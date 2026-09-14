@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Let's start with the single most important cost driver in this lesson: the shuffle. Before we talk about any join strategy or tuning trick, we need to understand why joins are expensive in the first place.","voice":"af_heart","duration":12.074666666666667,"provider":"tts","stageId":"2WjD3KDIez"},"size":579628}

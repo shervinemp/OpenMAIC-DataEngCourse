@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Step three, fix. You either raise spark.sql.autoBroadcastJoinThreshold above 40 MB, or explicitly wrap the dimension with broadcast(dim).","voice":"af_heart","duration":10.346666666666666,"provider":"tts","stageId":"2WjD3KDIez"},"size":496684}

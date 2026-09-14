@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"And choose Sort-Merge Join by default for large-to-large joins — it's the fallback, and it's the most robust under skew and tight memory because both sides are shuffled and sorted into ordered partitions.","voice":"af_heart","duration":12.608,"provider":"tts","stageId":"2WjD3KDIez"},"size":605228}

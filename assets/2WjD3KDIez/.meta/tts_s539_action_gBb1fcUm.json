@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Because broadcast eligibility fails, Spark falls back to a sort-merge join and shuffles both sides of the 2 TB fact table across the network. That's exactly what produces the dominating exchange stage.","voice":"af_heart","duration":13.226666666666667,"provider":"tts","stageId":"2WjD3KDIez"},"size":634924}

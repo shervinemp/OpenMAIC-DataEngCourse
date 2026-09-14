@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"One practical trap to remember: this all requires the modern Databricks CLI, version 0.205 or later. Older CLI builds simply have no bundle commands at all, so if a command isn't found, check the CLI version first.","voice":"af_heart","duration":15.957333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":765996}

@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Choose Shuffle Hash Join only when the small side exceeds the broadcast threshold but is still small enough to hash into memory on each executor — remember, only the small side gets shuffled there.","voice":"af_heart","duration":12.096,"provider":"tts","stageId":"2WjD3KDIez"},"size":580652}

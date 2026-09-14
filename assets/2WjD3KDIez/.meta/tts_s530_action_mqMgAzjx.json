@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Now let's look at what Spark actually does by default when you write a join. Unless the optimizer decides otherwise, Spark SQL's default join path is the sort-merge join.","voice":"af_heart","duration":11.434666666666667,"provider":"tts","stageId":"2WjD3KDIez"},"size":548908}

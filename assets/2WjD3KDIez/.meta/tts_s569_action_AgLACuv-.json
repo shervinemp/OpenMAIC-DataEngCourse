@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Problem 3 introduces tolerance on a nightly run. A tolerance is only meaningful relative to the source, so the solution converts the relative tolerance into an absolute row-count band before asserting anything.","voice":"af_heart","duration":13.504,"provider":"tts","stageId":"2WjD3KDIez"},"size":648236}

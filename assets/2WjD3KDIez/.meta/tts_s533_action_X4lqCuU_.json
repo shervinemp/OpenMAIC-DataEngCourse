@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"So here's your takeaway set for the exam. Choose Broadcast Hash Join when one side is provably small enough to fit the broadcast threshold — it's the fastest path because there's no shuffle of the large side.","voice":"af_heart","duration":12.544,"provider":"tts","stageId":"2WjD3KDIez"},"size":602156}

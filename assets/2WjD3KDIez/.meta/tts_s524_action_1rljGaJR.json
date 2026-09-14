@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"That clustering discussion leads us directly to the opposite failure mode: the small-file problem. Delta tables degrade not just from bad clustering keys but from too many tiny files, and that is what we tackle now.","voice":"af_heart","duration":13.418666666666667,"provider":"tts","stageId":"2WjD3KDIez"},"size":644140}

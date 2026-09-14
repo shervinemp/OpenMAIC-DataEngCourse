@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Now let's put those lifecycle commands together and watch them run end to end. This diagram is a live promotion pipeline — each node is a stage from commit to production, and we can step through it one stage at a time.","voice":"af_heart","duration":13.610666666666667,"provider":"tts","stageId":"2WjD3KDIez"},"size":653356}

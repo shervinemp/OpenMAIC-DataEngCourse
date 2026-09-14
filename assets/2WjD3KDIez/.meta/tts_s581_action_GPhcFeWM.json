@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Work it out before you answer. Compute how many cores can actually work on the hot task. Even with double the workers, the hot partition is still confined to one task, so the critical path barely moves.","voice":"af_heart","duration":12.224,"provider":"tts","stageId":"2WjD3KDIez"},"size":586796}

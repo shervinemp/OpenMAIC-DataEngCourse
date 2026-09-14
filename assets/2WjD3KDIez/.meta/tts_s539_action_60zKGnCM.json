@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Usable memory for caching is 320 GB, the 1.2 TB result is larger than memory alone, so MEMORY_AND_DISK is the right storage level — the spill goes to disk rather than failing.","voice":"af_heart","duration":13.312,"provider":"tts","stageId":"2WjD3KDIez"},"size":639020}

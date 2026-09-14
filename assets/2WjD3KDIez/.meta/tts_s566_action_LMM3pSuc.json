@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"The hint tells you to trace exit codes. Validate exits 0, pytest exits non-zero on a red test, and because shell steps abort on a non-zero exit, the deploy step never runs. That's the whole mechanism — a red test blocks the deploy.","voice":"af_heart","duration":16.064,"provider":"tts","stageId":"2WjD3KDIez"},"size":771116}

@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Option C is Z-ORDER with OPTIMIZE. It works, but only inside the files OPTIMIZE touches — it doesn't replace partitioning, and it degrades unless you keep re-running OPTIMIZE. Treat it as a complement, not a foundation.","voice":"af_heart","duration":14.549333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":698412}

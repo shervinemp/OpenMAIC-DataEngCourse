@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"So far we've kept environments isolated. Now the practical question: once your bundle works in dev, how do you actually move its configuration into production? Let's frame this as a decision under constraints.","voice":"af_heart","duration":13.098666666666666,"provider":"tts","stageId":"2WjD3KDIez"},"size":628780}

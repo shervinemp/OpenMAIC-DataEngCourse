@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Analysis: this is the I/O-bound trap we flagged earlier. If most of the runtime is I/O, the 1.5x rate raises cost and Photon loses. The exam will lean on this — always check what fraction of the job is actually compute-bound.","voice":"af_heart","duration":16.256,"provider":"tts","stageId":"2WjD3KDIez"},"size":780332}

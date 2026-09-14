@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Problem 3 moves to CI. Your CI workflow runs three shell steps in order, and you need to reason about what happens when one of them fails — specifically whether the bundle deploy still proceeds.","voice":"af_heart","duration":12.181333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":584748}

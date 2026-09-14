@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"So we must split the runtime. Part of it is compute — that's what Photon speeds up — and part of it is network or I/O bound, which Photon leaves untouched. Only the compute portion shrinks.","voice":"af_heart","duration":12.117333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":581676}

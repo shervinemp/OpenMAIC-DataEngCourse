@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"So you need to pick the right join strategy, and you need to reason about caching as a cost decision rather than a default habit. Both of those are decisions you'll make constantly in production pipelines.","voice":"af_heart","duration":11.733333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":563244}

@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Let's extend what we just practiced on performance troubleshooting. When a query feels slow, the Spark UI is your diagnostic instrument. It organizes execution into a strict hierarchy: Jobs, then Stages, then Tasks.","voice":"af_heart","duration":14.762666666666666,"provider":"tts","stageId":"2WjD3KDIez"},"size":708652}

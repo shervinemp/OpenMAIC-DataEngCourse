@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Now let's open up the bundle itself. A Databricks Asset Bundle is really just a folder of declarative configuration sitting next to your source code, and that folder is what CI/CD tools deploy from.","voice":"af_heart","duration":13.376,"provider":"tts","stageId":"2WjD3KDIez"},"size":642092}

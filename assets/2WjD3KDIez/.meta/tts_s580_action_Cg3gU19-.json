@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"A Job maps to a single triggered action or query. A Stage is the set of tasks that can run together without a shuffle boundary. And each Task is one unit of work on a partition. That nesting is what makes drill-down possible.","voice":"af_heart","duration":14.528,"provider":"tts","stageId":"2WjD3KDIez"},"size":697388}

@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Peak concurrency of 6 tasks implies roughly 6 to 8 executors need to be active — not 16. Halving the worker count halves the DBU-hours with no runtime change for this stage profile. That's a clean, defensible saving.","voice":"af_heart","duration":15.146666666666667,"provider":"tts","stageId":"2WjD3KDIez"},"size":727084}

@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Treat caching as a scope: cache it, use it, and release it. That keeps the cost bounded to exactly where the reuse happens. Let's check your understanding of joins, shuffles, and caching.","voice":"af_heart","duration":11.541333333333334,"provider":"tts","stageId":"2WjD3KDIez"},"size":554028}

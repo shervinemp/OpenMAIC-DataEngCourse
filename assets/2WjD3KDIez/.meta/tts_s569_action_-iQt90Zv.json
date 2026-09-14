@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Finally, Problem 5 raises isolation. The fixture writes results to a shared location, and isolation in tests is the same idea as an ephemeral dev cluster — your assertions should only ever see rows your own run produced.","voice":"af_heart","duration":15.36,"provider":"tts","stageId":"2WjD3KDIez"},"size":737324}

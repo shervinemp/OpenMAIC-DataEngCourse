@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Start simple. Write a query that selects run outcomes and durations from the timeline table, then filter by result_state to isolate the runs that failed. Look at the failure codes to spot the pattern.","voice":"af_heart","duration":12.714666666666666,"provider":"tts","stageId":"2WjD3KDIez"},"size":610348}

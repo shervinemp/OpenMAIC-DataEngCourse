@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Problem 3 is the counterexample to Problem 1. A pipeline runs on 8 workers and takes 60 minutes. This time, the hint warns, Photon accelerates computation but not network I/O.","voice":"af_heart","duration":13.418666666666667,"provider":"tts","stageId":"2WjD3KDIez"},"size":644140}

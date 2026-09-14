@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Step two, explain why. The same job uses the default spark.sql.autoBroadcastJoinThreshold of 10 MB. Our dimension is 40 MB — four times the threshold.","voice":"af_heart","duration":12.309333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":590892}

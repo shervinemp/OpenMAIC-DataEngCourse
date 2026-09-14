@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Here's the setup. A nightly Spark job joins a 2 TB Parquet fact table to a 40 MB dimension table. The Spark UI shows runtime dominated by a single exchange stage.","voice":"af_heart","duration":12.394666666666666,"provider":"tts","stageId":"2WjD3KDIez"},"size":594988}

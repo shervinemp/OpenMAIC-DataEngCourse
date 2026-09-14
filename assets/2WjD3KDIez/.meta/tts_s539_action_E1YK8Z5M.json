@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Now let's put all of that join and caching knowledge to work on a fully worked problem. We'll walk through a realistic nightly job that's slow, diagnose it step by step, and decide whether to cache.","voice":"af_heart","duration":11.925333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":572460}

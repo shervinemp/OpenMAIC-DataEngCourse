@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Step one is the exit-code trace: run databricks bundle validate — zero. Then pytest — a non-zero return. The shell stops there, so the databricks bundle deploy command is never reached.","voice":"af_heart","duration":12.565333333333333,"provider":"tts","stageId":"2WjD3KDIez"},"size":603180}

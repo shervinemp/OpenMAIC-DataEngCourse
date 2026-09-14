@@ -1,0 +1,1 @@
+{"mime":"audio/wav","meta":{"mediaType":"audio","text":"Here's the scenario. A data platform team of five engineers owns a new 50 terabyte Delta table. It's filtered mainly by event_date and customer_id, and the analysts want fast reads on both filter patterns.","voice":"af_heart","duration":8.298666666666668,"provider":"tts","stageId":"2WjD3KDIez"},"size":398380}
